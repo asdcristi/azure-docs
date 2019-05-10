@@ -22,7 +22,7 @@ ms.collection: M365-identity-device-management
 # Determine directory synchronization requirements
 Synchronization is all about providing users an identity in the cloud based on their on-premises identity. Whether or not they will use synchronized account for authentication or federated authentication, the users will still need to have an identity in the cloud.  This identity will need to be maintained and updated periodically.  The updates can take many forms, from title changes to password changes.  
 
-Start by evaluating the organizations on-premises identity solution and user requirements. This evaluation is important to define the technical requirements for how user identities will be created and maintained in the cloud.  For a majority of organizations, Active Directory is on-premises and will be the on-premises directory that users will by synchronized from, however in some cases this will not be the case.  
+Start by evaluating the organizations on-premises identity solution and user requirements. This evaluation is important to define the technical requirements for how user identities will be created and maintained in the cloud.  For a majority of organizations, Active Directory is on-premises and will be the on-premises directory that users will be synchronized from, however in some cases this will not be the case.  
 
 Make sure to answer the following questions:
 
